@@ -17,6 +17,17 @@ const team = [
     portfolio: "https://ranadebsaha.netlify.app/",
     gradient: "from-brand-primary/20 to-brand-secondary/10",
   },
+
+  {
+    name: "Farhan Chowdhury",
+    role: "Lead Frontend Engineer",
+    bio: "Farhan brings pixel-perfect precision to our user interfaces — crafting clean web applications and seamlessly wiring up full-stack API pipelines. He ensures our digital experiences are fast, fluid, and rock-solid from top to bottom.",
+    image: "/team-ranadeb.png",
+    linkedin: "https://www.linkedin.com/in/farhan-chowdhury-101b25258/",
+    email: "mailto:farhanbwn2003@gmail.com",
+    portfolio: "https://www.farhanchowdhury.me/",
+    gradient: "from-brand-primary/20 to-brand-secondary/10",
+  },
   // {
   //   name: "Tuman Sutradhar",
   //   role: "UI/UX Designer",
@@ -37,7 +48,18 @@ const team = [
     portfolio: "https://www.sharanya.tech/",
     gradient: "from-brand-secondary/20 to-blue-500/10",
   },
-]
+
+  {
+    name: "Soumyadeep Sarkar",
+    role: "Digital Marketing Executive",
+    bio: "Soumyadeep leads our marketing execution — pairing creative banner and poster design with strategic digital promotion for large-scale tech events. From crafting eye-catching visual assets to managing internal and external communications, he ensures every campaign hits the target audience and delivers results.",
+    image: "/team-ranadeb.png",
+    linkedin: "https://www.linkedin.com/in/soumyadeep-sarkar2004/",
+    email: "mailto:soumyadeepsarkar2004@outlook.com",
+    portfolio: "https://soumyadeepsarkar.is-a.dev/",
+    gradient: "from-brand-primary/20 to-brand-secondary/10",
+  },
+];
 
 const stats = [
   { value: "2026", label: "Founded" },
